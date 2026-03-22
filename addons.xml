@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<addons>
 <addon id="plugin.video.espatv" name="EspaTV" version="1.0.1" provider-name="RubénSDFA1labernt">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -21,3 +22,23 @@
     </assets>
   </extension>
 </addon>
+
+<addon id="repository.espatv" name="EspaTV Repository" version="1.0.0" provider-name="RubénSDFA1labernt">
+    <extension point="xbmc.addon.repository" name="EspaTV Repository">
+        <dir>
+            <info compressed="false">https://espakodi.github.io/espatv/addons.xml</info>
+            <checksum>https://espakodi.github.io/espatv/addons.xml.md5</checksum>
+            <datadir zip="true">https://espakodi.github.io/espatv/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">Repositorio de EspaTV</summary>
+        <description lang="es">Repositorio oficial para instalar y actualizar el addon EspaTV.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>
