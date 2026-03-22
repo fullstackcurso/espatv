@@ -1,40 +1,40 @@
 # EspaTV - Repositorio para Kodi
 
-## Descripcion
+## Descripción
 
-Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualizar automaticamente el addon desde Kodi.
+Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualizar automáticamente el addon desde Kodi.
 
-## Instalacion
+## Instalación
 
-### Opcion 1: Desde el Administrador de Archivos de Kodi (Recomendado)
+### Opción 1: Desde el Administrador de Archivos de Kodi (Recomendado)
 
-1. Abre Kodi y ve a **Ajustes** > **Administrador de archivos** > **Anadir fuente**
+1. Abre Kodi y ve a **Ajustes** > **Administrador de archivos** > **Añadir fuente**
 2. Introduce la URL: `https://espakodi.github.io/espatv/`
 3. Ponle un nombre (por ejemplo, `EspaTV Repo`)
 4. Ve a **Ajustes** > **Addons** > **Instalar desde archivo ZIP**
 5. Selecciona la fuente `EspaTV Repo` y elige `repository.espatv-1.0.0.zip`
-6. Espera la notificacion de instalacion
-7. Ve a **Instalar desde repositorio** > **EspaTV Repository** > **Addons de video** > **EspaTV**
+6. Espera la notificación de instalación
+7. Ve a **Instalar desde repositorio** > **EspaTV Repository** > **Addons de vídeo** > **EspaTV**
 
-### Opcion 2: Instalacion manual mediante archivo ZIP
+### Opción 2: Instalación manual mediante archivo ZIP
 
 1. Descarga `repository.espatv-1.0.0.zip` desde este repositorio
 2. En Kodi, ve a **Ajustes** > **Addons** > **Instalar desde archivo ZIP**
-3. Navega hasta el archivo descargado y seleccionalo
+3. Navega hasta el archivo descargado y selecciónalo
 
-## Caracteristicas del addon
+## Características del addon
 
 - TDT en directo
 - RTVE a la carta
-- Busqueda en Dailymotion y YouTube
+- Búsqueda en Dailymotion y YouTube
 - Radio y podcast
-- Catalogo de videos en castellano
-- Reproduce videos desde enlaces
-- Y mucho mas...
+- Catálogo de vídeos en castellano
+- Reproduce vídeos desde enlaces
+- Y mucho más...
 
 ## Aviso Legal
 
-Este addon no aloja ningun contenido. Actua como buscador y explorador de contenido disponible publicamente en internet.
+Este addon no aloja ningún contenido. Actúa como buscador y explorador de contenido disponible públicamente en internet.
 
 ## Contacto y Soporte
 
