@@ -40,3 +40,8 @@ Este addon no aloja ningún contenido. Actúa como buscador y explorador de cont
 
 - GitHub: [github.com/espakodi](https://github.com/espakodi)
 - Telegram: [t.me/espakodi](https://t.me/espakodi)
+
+> [!NOTE]
+> **Sobre la Creación de Contenido y Legalidad del Addon**  
+> EspaTV es, legal y técnicamente hablando, **un agregador multimedia de fuentes públicas, gratuitas y de libre emisión.** El proyecto no aloja contenido ni rompe ninguna medida de protección de derechos de autor.  
+> Al ser un proyecto completamente lícito, tienes total libertad para crear vídeos, tutoriales o reseñas. **No es necesario pedir permiso** para hablar de EspaTV ni para publicar contenido sobre el addon en YouTube, foros o redes sociales.
