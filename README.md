@@ -1,6 +1,6 @@
 # EspaTV - Repositorio para Kodi
 
-<video src="imagenes/Animacion_Logo_EspaTV.mp4" width="100%" controls>
+<video src="https://raw.githubusercontent.com/espakodi/espatv/main/imagenes/Animacion_Logo_EspaTV.mp4" width="100%" controls>
 </video>
 
 ## Descripción
