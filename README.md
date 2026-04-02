@@ -1,6 +1,7 @@
 # EspaTV - Repositorio para Kodi
 
-![Animación Logo EspaTV](Animacion_Logo_EspaTV.mp4)
+<video src="Animacion_Logo_EspaTV.mp4" width="100%" controls>
+</video>
 
 ## Descripción
 
