@@ -36,8 +36,6 @@ Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualiza
 > [!NOTE]
 > **Sobre la Creación de Contenido y Legalidad del Addon**  
 > EspaTV no aloja contenido ni vulnera ninguna medida de protección de derechos de autor. EspaTV es, legal y técnicamente, un agregador, buscador, y explorador multimedia de fuentes públicas, gratuitas y de libre emisión disponibles en internet.
-> 
-> Tienes plena libertad para mencionar EspaTV y difundir contenido relacionado con el addon en cualquier medio o plataforma pública.
 
 ---
 
