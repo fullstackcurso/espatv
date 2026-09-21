@@ -1,11 +1,11 @@
 {
     "messages": [
         {
-            "id": "welcome_espatv_v3",
-            "title": "Apps en t.me/espakodi",
-            "text": "Aplicaciones para Android y Windows en t.me/espakodi",
+            "id": "welcome_espatv_v4",
+            "title": "[COLOR yellow]EspaKodi 0.1.2[/COLOR] & [COLOR gold]EKHorus 2.0.1[/COLOR]",
+            "text": "[B][COLOR yellow]ESPAKODI 0.1.2 APP[/COLOR][/B]\nEnlace: [COLOR deepskyblue]https://espakodi.github.io/apk/[/COLOR]\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]5433357[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]1208875[/B]\n\n[B][COLOR yellow]EKHORUS 2.0.1[/COLOR][/B]\nEnlace: [COLOR deepskyblue]https://espakodi.github.io/EKHorus/[/COLOR]\nCódigo Downloader: [B]2047082[/B]\n\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaTV.[/COLOR]",
             "color": "yellow",
-            "date": "2026-08-07"
+            "date": "2026-09-21"
         }
     ]
 }
