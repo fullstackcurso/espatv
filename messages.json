@@ -1,11 +1,28 @@
 {
     "messages": [
         {
-            "id": "welcome_espatv_v5",
-            "title": "[COLOR yellow]EspaKodi 0.1.3[/COLOR] & [COLOR gold]EKHorus 2.0.1[/COLOR]",
-            "text": "[B][COLOR yellow]ESPAKODI 0.1.3 APP[/COLOR][/B]\nEnlace: [COLOR deepskyblue]https://espakodi.github.io/apk/[/COLOR]\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]7373074[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]6173772[/B]\n\n[B][COLOR yellow]EKHORUS 2.0.1[/COLOR][/B]\nEnlace: [COLOR deepskyblue]https://espakodi.github.io/EKHorus/[/COLOR]\nCódigo Downloader: [B]2047082[/B]\n\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaTV.[/COLOR]",
+            "id": "espatv_291",
+            "title": "EspaTV 2.9.1",
+            "color": "lime",
+            "repeat": 2,
+            "date": "2026-10-04",
+            "text": "[B][COLOR lime]NUEVA VERSIÓN[/COLOR][/B]\n------------------------------------------------------------\nYa está disponible EspaTV 2.9.1. Se actualiza desde el repositorio, en Ajustes > Add-ons > Repositorios.\n\n• Escanear canales de Telegram: ahora detecta el canal, empieza por las últimas entradas y deja seguir hacia atrás con «Cargar más antiguas». Cada enlace sale con el texto del mensaje.\n• Corregido un bucle sin fin al cancelar el listado de enlaces de un canal ya agotado, que podía llegar a colgar Kodi.\n• Nueva sección «Significado de los Nombres».\n• La TDT de EspaTV entra como una lista más de IPTV Simple y ya no sustituye las de otros addons.\n\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaTV.[/COLOR]"
+        },
+        {
+            "id": "espakodi_app_013",
+            "title": "EspaKodi 0.1.3 (Android y Windows)",
             "color": "yellow",
-            "date": "2026-09-28"
+            "repeat": 1,
+            "date": "2026-10-04",
+            "text": "[B][COLOR yellow]ESPAKODI 0.1.3[/COLOR][/B]\n------------------------------------------------------------\nWeb: [COLOR deepskyblue]https://espakodi.github.io/apk/[/COLOR]\n\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]7373074[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]6173772[/B]\n\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaTV.[/COLOR]"
+        },
+        {
+            "id": "ekhorus_201",
+            "title": "EKHorus 2.0.1 (reproductor de AceStream)",
+            "color": "gold",
+            "repeat": 1,
+            "date": "2026-10-04",
+            "text": "[B][COLOR gold]EKHORUS 2.0.1[/COLOR][/B]\n------------------------------------------------------------\nWeb: [COLOR deepskyblue]https://espakodi.github.io/EKHorus/[/COLOR]\nCódigo Downloader: [B]2047082[/B]\n\nSirve para los enlaces acestream://, que Kodi no trae de serie.\n\nTelegram oficial: [COLOR deepskyblue]t.me/espakodi[/COLOR]\n\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaTV.[/COLOR]"
         }
     ]
 }
